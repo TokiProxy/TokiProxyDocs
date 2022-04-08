@@ -1,0 +1,6 @@
+# Proxies Endpoints
+
+We have various endpoints for our proxies these include
+- [https://tokiproxy.co.uk/api/proxies/http](basics/endpoints/http)
+- [https://tokiproxy.co.uk/api/proxies/socks4](basics/endpoints/socks4)
+- [https://tokiproxy.co.uk/api/proxies/socks5](basics/endpoints/socks5)
